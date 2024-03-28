@@ -1,0 +1,58 @@
+{
+  "type": "room",
+  "size": {
+    "width": 4,
+    "height": 4
+  },
+  "states": [
+    {
+      "id": "bed_b",
+      "position": {
+        "x": 0,
+        "y": 3
+      },
+      "orientation": "south"
+    },
+    {
+      "id": "cabinet",
+      "position": {
+        "x": 1,
+        "y": 3
+      },
+      "orientation": "south",
+      "content": "lamp_small"
+    },
+    {
+      "id": "hug_a",
+      "position": {
+        "x": 0,
+        "y": 2
+      },
+      "orientation": "north"
+    },
+    {
+      "id": "table_large",
+      "position": {
+        "x": 3,
+        "y": 0
+      },
+      "content": "cactus"
+    },
+    {
+      "id": "chair_b",
+      "position": {
+        "x": 2,
+        "y": 0
+      },
+      "orientation": "east"
+    },
+    {
+      "id": "chair_b",
+      "position": {
+        "x": 3,
+        "y": 1
+      },
+      "orientation": "south"
+    }
+  ]
+}

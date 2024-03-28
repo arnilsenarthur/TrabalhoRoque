@@ -1,0 +1,51 @@
+{
+  "type": "room",
+  "size": {
+    "width": 4,
+    "height": 4
+  },
+  "states": [
+    {
+      "id": "bed_b",
+      "position": {
+        "x": 3,
+        "y": 3
+      },
+      "orientation": "south"
+    },
+    {
+      "id": "cabinet",
+      "position": {
+        "x": 3,
+        "y": 2
+      },
+      "orientation": "west",
+      "content": "cactus"
+    },
+    {
+      "id": "bed_a",
+      "position": {
+        "x": 0,
+        "y": 3
+      },
+      "orientation": "south"
+    },
+    {
+      "id": "cabinet",
+      "position": {
+        "x": 0,
+        "y": 2
+      },
+      "orientation": "east",
+      "content": "books"
+    },
+    {
+      "id": "couch_a",
+      "position": {
+        "x": 2,
+        "y": 0
+      },
+      "orientation": "north"
+    }
+  ]
+}
